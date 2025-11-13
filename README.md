@@ -7,7 +7,7 @@
 - Classic Merge Sort - классическая рекурсивная реализация
 - Merge+Insertion Sort - переключается на Insertion Sort при малых размерах
 
-## Результаты
+## Графики
 
 ![Сравнение алгоритмов](graphs_images/sorting_analysis.png)
 
@@ -29,3 +29,5 @@
 
 
 ### ID посылки в системе CodeForces: 348751414
+
+### Реализацию классов ArrayGenerator и SortTester можно найти в папке code => A2_visualization.cpp
